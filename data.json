@@ -1,0 +1,30 @@
+{
+    "data": {
+        "magic": "APF_VER_1",
+        "data_slots": [
+            {
+                "name": "Background",
+                "id": 1,
+                "required": true,
+                "parameters": 3,
+                "extensions": [
+					"bin"
+                ],
+                "size_exact": 184320,
+                "address": "0x00000000"
+            },
+			{
+                "name": "Audio",
+                "id": 99,
+                "required": true,
+                "parameters": 3,
+                "extensions": [
+                    "wav"
+                ],
+                "size_exact": 0,
+                "size_maximum": "0x3C00000",
+                "address": "0x00400000"
+            }
+        ]
+    }
+}

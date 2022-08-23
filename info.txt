@@ -1,0 +1,10 @@
+Example Core - Basic Assets
+
+This example demonstrates loading and displaying a static image and audio from selectable asset files out of RAM. A square is drawn over the top of the image, which can be controlled with user input.
+
+* SDRAM controller
+* Video generation
+* I2S audio generation
+* User input displayed in Controls menu
+* Reload assets during runtime via the Core Settings menu
+* Core menu signaling (box moves while OS menu is active)

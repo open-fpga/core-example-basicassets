@@ -1,0 +1,27 @@
+{
+    "input": {
+        "magic": "APF_VER_1",
+        "controllers": [
+            {
+                "type": "default",
+                "mappings": [
+                    {
+                        "id": 0,
+                        "name": "Purple Square",
+                        "key": "pad_btn_a"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Green Square",
+                        "key": "pad_btn_b"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Replay Audio",
+                        "key": "pad_btn_x"
+                    }
+                ]
+            }
+        ]
+    }
+}
